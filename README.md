@@ -1,5 +1,3 @@
-# Moive-Reccomendation-System
-
 # Movie Recommender System
 
 ## Overview
